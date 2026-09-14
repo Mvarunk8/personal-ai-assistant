@@ -8,8 +8,7 @@ I'm an operations manager, not a software engineer. I built this by describing w
 wanted in plain language to AI coding assistants, then reading, testing, and debugging
 the results until they worked. Everything here was earned the hard way.
 
-**This repo is an architecture and engineering-decisions write-up.** It is not a
-deployable copy — no hostnames, addresses, ports, credentials, or personal data.
+**This repo is an architecture and engineering-decisions write-up.*
 
 ---
 
